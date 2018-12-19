@@ -1,0 +1,1 @@
+var fireballSize = 22;
